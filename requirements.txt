@@ -1,5 +1,5 @@
 mtcnn
-tensorflow
+tensorflow2.0.0a0
 dlib
 imutils
 sklearn
