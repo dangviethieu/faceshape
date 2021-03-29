@@ -1,0 +1,10 @@
+mtcnn
+tensorflow
+dlib
+imutils
+sklearn
+fastapi
+uvicorn
+python-multipart
+jinja2
+aiofiles
