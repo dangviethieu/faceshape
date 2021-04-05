@@ -1,6 +1,5 @@
 mtcnn
 tensorflow-cpu
-dlib
 imutils
 sklearn
 fastapi

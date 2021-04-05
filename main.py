@@ -4,9 +4,7 @@ from fastapi.templating import Jinja2Templates
 from starlette import status
 import shutil
 import os
-
 from predict import predict_faceshape
-
 
 UPLOAD_PATH = "./"
 
