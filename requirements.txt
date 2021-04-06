@@ -3,7 +3,8 @@ tensorflow-cpu
 imutils
 sklearn
 fastapi
-uvicorn
+uvicorn[standard]
 python-multipart
 jinja2
 aiofiles
+gunicorn==20.0.4
